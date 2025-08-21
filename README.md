@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋, I'm Mhd  
 
-<!--
-**Mohammad-Jaafar/Mohammad-Jaafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior AI/ML Engineer | Deep Learning & Computer Vision  
+💡 Passionate about building scalable AI models and deploying them on mobile & web  
+🚀 Currently working on lightweight deep learning models for real-world applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- **Languages:** Python, Dart, JavaScript  
+- **Frameworks:** TensorFlow, Keras, PyTorch, Flutter  
+- **Tools:** Git, Docker, VS Code, Android Studio  
+
+---
+
+## 📌 Current Projects  
+- 🔬 Explosives Detection Model with **MobileNetV2** (optimized for TFLite)  
+- 📱 AI-powered mobile app using **Flutter + TFLite**  
+- 🌐 End-to-end AI systems with deployment  
+
+---
+
+## 📊 GitHub Stats  
+![Mhd's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)  
+
+---
+
+## 🌍 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/YourProfile/)  
+- 📧 Email: your.email@example.com  
+
+---
+⭐️ From [YourUserName](https://github.com/YourUserName)
