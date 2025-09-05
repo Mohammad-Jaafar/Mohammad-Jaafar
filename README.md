@@ -1,6 +1,6 @@
 <hr></hr>
 
-<h2 align="center"> Hi 👋, I'm Mohammad Jaafar </h2>
+<h2 align="center"> Mohammad Jaafar </h2>
 <h3 align="center"> AI/ML Engineer | Deep Learning | Computer Vision | Natural Language Processing </h3>
 
 <hr></hr>
