@@ -5,7 +5,7 @@
 
 <hr></hr>
 
-### 🚀 Skills  
+### Skills  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)
@@ -23,7 +23,7 @@
 
 <hr></hr>
 
-### 🔬 Research Interests  
+### Research Interests  
 - Deep Learning Architectures (CNNs, Transformers)  
 - Computer Vision & Object Detection  
 - Natural Language Processing & Generative AI  
@@ -32,7 +32,7 @@
 
 <hr></hr>
 
-### 📫 Contact Me  
+### Contact Me  
 - Email: **mhdjaafar24@gmail.com**  
 - LinkedIn: [Mohammad Jaafar](https://www.linkedin.com/in/mohammad-jaafar-90a575377)  
 
