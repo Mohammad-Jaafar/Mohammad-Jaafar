@@ -35,5 +35,6 @@
 ### Contact Me  
 - Email: **mhdjaafar24@gmail.com**  
 - LinkedIn: [Mohammad Jaafar](https://www.linkedin.com/in/mohammad-jaafar-90a575377)  
+- HuggingFace: [Mohammad Jaafar](https://huggingface.co/Mhdjaafar)  
 
 <hr></hr>
